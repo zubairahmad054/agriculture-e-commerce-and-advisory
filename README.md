@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 <img src="/client/public/images/Home Page.jpg" alt="screen1" width="1024"/>
 <img src="/client/public//images/Insights.jpg" alt="screen1" width="1024"/>
-<img src="/client/public//images/Sign Up.jpg" alt="screen1" width="1024"/>
-<img src="/client/public//images/Sign In.jpg" alt="screen1" width="1024"/>
 <img src="/client/public//images/Weather API (1).jpg" alt="screen1" width="1024"/>
 <img src="/client/public//images/Weather API (2).jpg" alt="screen1" width="1024"/>
+<img src="/client/public//images/Sign Up.jpg" alt="screen1" width="1024"/>
+<img src="/client/public//images/Sign In.jpg" alt="screen1" width="1024"/>
