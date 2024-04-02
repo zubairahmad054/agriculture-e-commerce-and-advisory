@@ -1,0 +1,544 @@
+{
+  "data": [
+    {
+        "name": "Wheat",
+        "price": 1700,
+        "category": "Crop"
+    },
+    {
+        "name": "Rice",
+        "price": 5000,
+        "category": "Crop"
+    },
+    {
+        "name": "Sugarcane",
+        "price": 160,
+        "category": "Crop"
+    },
+    {
+        "name": "Cotton",
+        "price": 5000,
+        "category": "Crop"
+    },
+    {
+        "name": "Maize",
+        "price": 1200,
+        "category": "Crop"
+    },
+    {
+        "name": "Gram",
+        "price": 4000,
+        "category": "Crop"
+    },
+    {
+        "name": "Mung Bean",
+        "price": 7000,
+        "category": "Crop"
+    },
+    {
+        "name": "Black Gram",
+        "price": 8000,
+        "category": "Crop"
+    },
+    {
+        "name": "Green Gram",
+        "price": 7000,
+        "category": "Crop"
+    },
+    {
+        "name": "Red Chilli",
+        "price": 14000,
+        "category": "Crop"
+    },
+    {
+        "name": "Onion",
+        "price": 2500,
+        "category": "Crop"
+    },
+    {
+        "name": "Potato",
+        "price": 1800,
+        "category": "Crop"
+    },
+    {
+        "name": "Tomato",
+        "price": 5000,
+        "category": "Crop"
+    },
+    {
+        "name": "Garlic",
+        "price": 2500,
+        "category": "Crop"
+    },
+    {
+        "name": "Ginger",
+        "price": 3500,
+        "category": "Crop"
+    },
+    {
+        "name": "Okra",
+        "price": 3000,
+        "category": "Crop"
+    },
+    {
+        "name": "Green Chili",
+        "price": 12000,
+        "category": "Crop"
+    },
+    {
+        "name": "Brinjal",
+        "price": 3500,
+        "category": "Crop"
+    },
+    {
+        "name": "Cauliflower",
+        "price": 3000,
+        "category": "Crop"
+    },
+    {
+        "name": "Cabbage",
+        "price": 4000,
+        "category": "Crop"
+    },
+    {
+        "name": "Carrot",
+        "price": 3000,
+        "category": "Crop"
+    },
+    {
+        "name": "Radish",
+        "price": 2500,
+        "category": "Crop"
+    },
+    {
+        "name": "Turnip",
+        "price": 3000,
+        "category": "Crop"
+    },
+    {
+        "name": "Spinach",
+        "price": 1500,
+        "category": "Crop"
+    },
+    {
+        "name": "Lettuce",
+        "price": 2000,
+        "category": "Crop"
+    },
+    {
+        "name": "Coriander",
+        "price": 2000,
+        "category": "Crop"
+    },
+    {
+        "name": "Mint",
+        "price": 2500,
+        "category": "Crop"
+    },
+    {
+        "name": "Fenugreek",
+        "price": 2000,
+        "category": "Crop"
+    },
+    {
+        "name": "Mustard",
+        "price": 2000,
+        "category": "Crop"
+    },
+    {
+        "name": "Garlic",
+        "price": 0,
+        "category": "Seed"
+    },
+    {
+        "name": "Wheat",
+        "price": 1400,
+        "category": "Seed"
+    },
+    {
+        "name": "Rice",
+        "price": 3500,
+        "category": "Seed"
+    },
+    {
+        "name": "Maize",
+        "price": 1300,
+        "category": "Seed"
+    },
+    {
+        "name": "Sorghum",
+        "price": 4000,
+        "category": "Seed"
+    },
+    {
+        "name": "Sunflower",
+        "price": 4000,
+        "category": "Seed"
+    },
+    {
+        "name": "Cotton",
+        "price": 3500,
+        "category": "Seed"
+    },
+    {
+        "name": "Soybean",
+        "price": 5500,
+        "category": "Seed"
+    },
+    {
+        "name": "Mung Bean",
+        "price": 6500,
+        "category": "Seed"
+    },
+    {
+        "name": "Black Gram",
+        "price": 7500,
+        "category": "Seed"
+    },
+    {
+        "name": "Green Gram",
+        "price": 5500,
+        "category": "Seed"
+    },
+    {
+        "name": "Chickpea",
+        "price": 5000,
+        "category": "Seed"
+    },
+    {
+        "name": "Lentil",
+        "price": 5500,
+        "category": "Seed"
+    },
+    {
+        "name": "Sesame",
+        "price": 6500,
+        "category": "Seed"
+    },
+    {
+        "name": "Fenugreek",
+        "price": 3000,
+        "category": "Seed"
+    },
+    {
+        "name": "Carom",
+        "price": 15000,
+        "category": "Seed"
+    },
+    {
+        "name": "Cumin",
+        "price": 12000,
+        "category": "Seed"
+    },
+    {
+        "name": "Mustard",
+        "price": 3000,
+        "category": "Seed"
+    },
+    {
+        "name": "Radish",
+        "price": 2000,
+        "category": "Seed"
+    },
+    {
+        "name": "Onion",
+        "price": 4000,
+        "category": "Seed"
+    },
+    {
+        "name": "Spinach",
+        "price": 2000,
+        "category": "Seed"
+    },
+    {
+        "name": "Fenugreek Leaves",
+        "price": 1500,
+        "category": "Seed"
+    },
+    {
+        "name": "Coriander",
+        "price": 2500,
+        "category": "Seed"
+    },
+    {
+        "name": "Cumin Leaves",
+        "price": 3000,
+        "category": "Seed"
+    },
+    {
+        "name": "Mint",
+        "price": 2000,
+        "category": "Seed"
+    },
+    {
+        "name": "Fennel",
+        "price": 15000,
+        "category": "Seed"
+    },
+    {
+      "name": "Mango",
+      "price": 180,
+      "category": "Fruit"
+    },
+    {
+        "name": "Peach",
+        "price": 80,
+        "category": "Fruit"
+    },
+    {
+        "name": "Apricot",
+        "price": 120,
+        "category": "Fruit"
+    },
+    {
+        "name": "Plum",
+        "price": 100,
+        "category": "Fruit"
+    },
+    {
+        "name": "Banana",
+        "price": 60,
+        "category": "Fruit"
+    },
+    {
+        "name": "Pomegranate",
+        "price": 200,
+        "category": "Fruit"
+    },
+    {
+        "name": "Grapes",
+        "price": 120,
+        "category": "Fruit"
+    },
+    {
+        "name": "Watermelon",
+        "price": 25,
+        "category": "Fruit"
+    },
+    {
+        "name": "Melon",
+        "price": 30,
+        "category": "Fruit"
+    },
+    {
+        "name": "Orange",
+        "price": 100,
+        "category": "Fruit"
+    },
+    {
+        "name": "Lemon",
+        "price": 150,
+        "category": "Fruit"
+    },
+    {
+        "name": "Grapefruit",
+        "price": 120,
+        "category": "Fruit"
+    },
+    {
+        "name": "Papaya",
+        "price": 50,
+        "category": "Fruit"
+    },
+    {
+        "name": "Guava",
+        "price": 50,
+        "category": "Fruit"
+    },
+    {
+        "name": "Apple",
+        "price": 120,
+        "category": "Fruit"
+    },
+    {
+        "name": "Pear",
+        "price": 100,
+        "category": "Fruit"
+    },
+    {
+        "name": "Strawberry",
+        "price": 300,
+        "category": "Fruit"
+    },
+    {
+        "name": "Raspberry",
+        "price": 400,
+        "category": "Fruit"
+    },
+    {
+        "name": "Blackberry",
+        "price": 350,
+        "category": "Fruit"
+    },
+    {
+        "name": "Mulberry",
+        "price": 80,
+        "category": "Fruit"
+    },
+    {
+        "name": "Cantaloupe",
+        "price": 40,
+        "category": "Fruit"
+    },
+    {
+        "name": "Kiwi",
+        "price": 400,
+        "category": "Fruit"
+    },
+    {
+        "name": "Passion Fruit",
+        "price": 800,
+        "category": "Fruit"
+    },
+    {
+        "name": "Litchi",
+        "price": 300,
+        "category": "Fruit"
+    },
+    {
+        "name": "Fig",
+        "price": 150,
+        "category": "Fruit"
+    },
+    {
+        "name": "Custard Apple",
+        "price": 100,
+        "category": "Fruit"
+    },
+    {
+      "name": "Tractor",
+      "price": 3000,
+      "category": "Rent"
+    },
+    {
+        "name": "Combine Harvester",
+        "price": 5000,
+        "category": "Rent"
+    },
+    {
+        "name": "Seeder",
+        "price": 2000,
+        "category": "Rent"
+    },
+    {
+        "name": "Tiller",
+        "price": 1500,
+        "category": "Rent"
+    },
+    {
+        "name": "Cultivator",
+        "price": 1800,
+        "category": "Rent"
+    },
+    {
+        "name": "Plow",
+        "price": 1200,
+        "category": "Rent"
+    },
+    {
+        "name": "Sprayer",
+        "price": 1000,
+        "category": "Rent"
+    },
+    {
+        "name": "Harvester",
+        "price": 2500,
+        "category": "Rent"
+    },
+    {
+        "name": "Rake",
+        "price": 800,
+        "category": "Rent"
+    },
+    {
+        "name": "Seeder Planter",
+        "price": 3500,
+        "category": "Rent"
+    },
+    {
+        "name": "Thresher",
+        "price": 4000,
+        "category": "Rent"
+    },
+    {
+        "name": "Seeder Fertilizer",
+        "price": 2500,
+        "category": "Rent"
+    },
+    {
+        "name": "Rotavator",
+        "price": 2000,
+        "category": "Rent"
+    },
+    {
+        "name": "Harrow",
+        "price": 1800,
+        "category": "Rent"
+    },
+    {
+        "name": "Power Tiller",
+        "price": 2200,
+        "category": "Rent"
+    },
+    {
+        "name": "Lawn Mower",
+        "price": 1500,
+        "category": "Rent"
+    },
+    {
+        "name": "Seed Drill",
+        "price": 3000,
+        "category": "Rent"
+    },
+    {
+        "name": "Planter",
+        "price": 2500,
+        "category": "Rent"
+    },
+    {
+        "name": "Reaper",
+        "price": 3500,
+        "category": "Rent"
+    },
+    {
+        "name": "Weeder",
+        "price": 1000,
+        "category": "Rent"
+    },
+    {
+        "name": "Transplanter",
+        "price": 3500,
+        "category": "Rent"
+    },
+    {
+        "name": "Baler",
+        "price": 4500,
+        "category": "Rent"
+    },
+    {
+        "name": "Tedder",
+        "price": 2000,
+        "category": "Rent"
+    },
+    {
+        "name": "Chaff Cutter",
+        "price": 1200,
+        "category": "Rent"
+    },
+    {
+        "name": "Sprinkler Irrigation System",
+        "price": 5000,
+        "category": "Rent"
+    },
+    {
+        "name": "Drip Irrigation System",
+        "price": 3500,
+        "category": "Rent"
+    },
+    {
+      "name": "Warehouse",
+      "price": 0,
+      "category": "Rent"
+    }
+  ]
+}
